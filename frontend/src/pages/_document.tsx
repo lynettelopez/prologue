@@ -20,7 +20,7 @@ export default class MyDocument extends Document {
       <Html>
         <Head>
           <link
-            href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=optional"
+            href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=optional"
             rel="stylesheet"
           />
         </Head>
